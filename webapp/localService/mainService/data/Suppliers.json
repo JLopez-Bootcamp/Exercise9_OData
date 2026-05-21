@@ -1,0 +1,30 @@
+[
+    {
+        "SupplierID": 1722827192,
+        "CompanyName": "CompanyName1",
+        "ContactName": "ContactName1",
+        "ContactTitle": "ContactTitle1",
+        "Address": "Address1",
+        "City": "City1",
+        "Region": "Region1",
+        "PostalCode": "PostalCod1",
+        "Country": "Country1",
+        "Phone": "Phone1",
+        "Fax": "Fax1",
+        "HomePage": "HomePage1"
+    },
+    {
+        "SupplierID": 255541537,
+        "CompanyName": "CompanyName2",
+        "ContactName": "ContactName2",
+        "ContactTitle": "ContactTitle2",
+        "Address": "Address2",
+        "City": "City2",
+        "Region": "Region2",
+        "PostalCode": "PostalCod2",
+        "Country": "Country2",
+        "Phone": "Phone2",
+        "Fax": "Fax2",
+        "HomePage": "HomePage2"
+    }
+]
