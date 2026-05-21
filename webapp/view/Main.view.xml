@@ -11,7 +11,7 @@
             }" >
         <headerToolbar>
             <OverflowToolbar id="oft1">
-                <Text id="textProductsTitle" text="{i18n>productsTitle}" />
+                <Text id="textProductsTitle" text="{i18n>tabTitle}" />
             </OverflowToolbar>
         </headerToolbar>
 
