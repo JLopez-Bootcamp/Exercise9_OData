@@ -11,7 +11,8 @@
             }" >
         <headerToolbar>
             <OverflowToolbar id="oft1">
-                <Text id="textProductsTitle" text="{i18n>tabTitle}" />
+                <Text id="textProductsTitle" text="{i18n>tableTitle}" />
+                <Text id="textProductDescription" text="{i18n>descProductTable}" />
             </OverflowToolbar>
         </headerToolbar>
 
@@ -30,7 +31,7 @@
         <items>
             <ColumnListItem id="cliProduct">
                 <cells>
-                    <ObjectIdentifier id="oiProduct" title="{ProductName}" text="{ProductName}"/>
+                    <ObjectIdentifier id="oiProduct" title="{ProductName}" text="{i18n>lblProductID}: {ProductID}" />
 
                     <Text id="textSupplierID" text="{SupplierID}" />
 
