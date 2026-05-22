@@ -1,1 +1,15 @@
 /* Enter your custom styles here */
+.textStyle {
+    font-style: italic
+}
+
+.customDivider {
+    border-top: 1px solid #ccc;
+    width: 100%;
+    margin: 0.5rem 0;
+}
+
+.customToolbar {
+    min-height: 5rem;  
+    align-items: flex-start;
+}
